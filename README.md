@@ -7,3 +7,4 @@ https://campuspress.yale.edu/shrikantpawar/
 
 open_parking_alert.py: Data read: OpenCV video capture, split, plotting, noise removal, MASK Convolution neural network training, confusion matrix, accuracy, sensitivity, specificity, precision, recall, confusion matrix, log-loss, and area under curve and receiver operating characteristic, AUC-ROC evaluation, KIVY application.
 selected function(cv2.VideoCapture, imwrite, imread, str, imshow, print, draw_bbox, build, MaskRCNN, model.load_weights, VideoCapturemodel.detect, cap.release, cv2.destroyAllWindows).
+![download (1)](https://github.com/user-attachments/assets/ebc3506a-ed6b-46ef-ba32-231458f3d3f8)
